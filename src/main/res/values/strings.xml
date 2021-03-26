@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ARanna</string>
+    <string-array name="locations">
+        <item>Sakura Flats</item>
+        <item>Kagura Flats</item>
+        <item>Sri Ranga Mahal</item>
+        <item>Ranga Park</item>
+        <item>Orion Flats</item>
+        <item>Nissi Supermarket</item>
+        <item>VGP Flats</item>
+        <item>Sims Park</item>
+    </string-array>
+
+    <string-array name="route_calc">
+        <item>Plot 4 and 5B, Sri Ranga Garden</item>
+        <item>Plot 6 and 7B, Sri Ranga Garden</item>
+        <item>Teacher\'s Colony, Senthil Nagar</item>
+        <item>No. 68, Senthil Nagar</item>
+        <item>No. 78, Sri Ranga Garden</item>
+        <item>No. 79, Sri Ranga Garden</item>
+        <item>No. 80, Sri Ranga Garden</item>
+        <item>No. 81, Sri Ranga Garden</item>
+    </string-array>
+</resources>
